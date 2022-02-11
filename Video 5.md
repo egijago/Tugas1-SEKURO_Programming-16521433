@@ -24,3 +24,6 @@
 ### Praktik dari membuat repo hingga mengakses log
 <p>&nbsp;</p>
 
+![](prak1.png)
+
+![](prak2.png)
